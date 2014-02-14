@@ -9,11 +9,11 @@ Install
 -------
 Zsh:
 
-  git clone https://github.com/jose-rodrigues/cdalias.git ~/.cdalias && echo 'source $HOME/.cdalias/cdalias.sh' >> ~/.zshrc && source ~/.zshrc
+	git clone https://github.com/jose-rodrigues/cdalias.git ~/.cdalias && echo 'source $HOME/.cdalias/cdalias.sh' >> ~/.zshrc && source ~/.zshrc
 
 Bash:
 
-  git clone https://github.com/jose-rodrigues/cdalias.git ~/.cdalias && echo 'source $HOME/.cdalias/cdalias.sh' >> ~/.bashrc && source ~/.bashrc
+	git clone https://github.com/jose-rodrigues/cdalias.git ~/.cdalias && echo 'source $HOME/.cdalias/cdalias.sh' >> ~/.bashrc && source ~/.bashrc
 
 Use
 ---
