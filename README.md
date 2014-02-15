@@ -17,5 +17,20 @@ Bash:
 
 Use
 ---
+Create an alias:
 
-SOON
+	$ cdalias new aliasname ~/some/long/path/directory
+
+Then juste type `cdaliasname` tu use the alias.
+
+Update an alias:
+
+	$ cdalias update aliasname ~/some/long/path/directory
+
+Delete an alias:
+
+	$ cdalias delete aliasname
+
+Show all the aliases
+
+	$ cdalias show
